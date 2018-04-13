@@ -2,15 +2,30 @@
   font-family: verdana, sans-serif;
   text-align: center;
   background-color: black;
+  color: white;
 }
 
 #header h1 {
-  color: white;
   font-weight: normal;
   font-size: 50px;
 }
 
-#header h4 {
+h4 {
   color: aquamarine;
   font-size: 16px;
+}
+
+#main h1 {
+  font-weight: 300;
+  font-size: 32px;
+}
+
+#main h3 {
+  font-size: 21px;
+  color: gray;
+}
+
+footer {
+  color: gray;
+  text-align: right;
 }
